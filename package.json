@@ -1,0 +1,19 @@
+{
+  "name": "ffff",
+  "version": "9.0.0-alpha.0",
+  "description": "",
+  "main": "index.html",
+  "author": {
+    "name": "btopro"
+  },
+  "license": "Apache-2.0",
+  "private": false,
+  "publishConfig": {
+    "access": "public"
+  },
+  "scripts": {
+    "start": "npm run dev",
+    "dev": "npx @haxtheweb/haxcms-nodejs",
+    "dev-theme": "cd custom && npm start"
+  }
+}
