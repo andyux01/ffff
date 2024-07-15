@@ -60,26 +60,6 @@
         "videos": {},
         "images": {}
       }
-    },
-    {
-      "id": "item-89f511e8-7272-4618-afe6-37c74a5d46aa",
-      "indent": 0,
-      "location": "pages/item-89f511e8-7272-4618-afe6-37c74a5d46aa/index.html",
-      "slug": "welcome-copy-copy",
-      "order": 2,
-      "parent": null,
-      "title": "Welcome Copy Copy",
-      "description": "\n    To get started, hit the edit pencil on the side.\n    Now this content is editable in place so select and delete it to get started!\n    If you need to learn more about the HAX editor or HAXcms ch",
-      "metadata": {
-        "created": 1720605309,
-        "updated": 1720605613,
-        "images": {},
-        "videos": {},
-        "published": true,
-        "hideInMenu": false,
-        "locked": false,
-        "readtime": 1
-      }
     }
   ]
 }
