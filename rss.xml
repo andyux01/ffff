@@ -10,7 +10,7 @@
   <atom:link href="/rss.xml" rel="self" type="application/rss+xml"/>
   
   <item>
-    <title>Silabus</title>
+    <title>Silabus Literasi I</title>
     <link>
     /item-f85eff25-7023-4c19-abf5-545732b71e7a
     </link>
@@ -19,7 +19,7 @@
 <p>Silabus standar adalah kontrak antara kita.</p>
 <video-player source="https://www.dailymotion.com/embed/video/x2zv4fm" caption="Cats Cats Cats" accent-color="pink" crossorigin="anonymous" sticky-corner="none" resource="#d020a1d3-dd0a-36fc-5ae9-c5ce33dd3bce" prefix="oer:http://oerschema.org/ schema:http://schema.org/ dc:http://purl.org/dc/terms/ foaf:http://xmlns.com/foaf/0.1/ cc:http://creativecommons.org/ns# bib:http://bib.schema.org " element-visible lang="en" media-title="kucing" track="https://images-assets.nasa.gov/image/jsc2023e048791/jsc2023e048791~thumb.jpg" data-primary="9" t="{&quot;embeddedMedia&quot;:&quot;embedded media&quot;}" source-type="external" sources="[]" source-data="[{&quot;src&quot;:&quot;https://www.dailymotion.com/embed/video/x2zv4fm&quot;,&quot;type&quot;:&quot;&quot;}]" tracks="[]"></video-player>
 <p><a href="https://docs.google.com/document/d/1ncQJlERbTsvFY6Nrx5gCrXasUlCUyeMh/edit?usp=sharing&amp;ouid=113111580286725726041&amp;rtpof=true&amp;sd=true" target="_blank">Silabus materi</a></p>
-<learning-component type="objectives" subtitle="Unit 1" accent-color="indigo" title="Learning Objectives" icon="courseicons:learning-objectives"><p>Pada akhir pelajaran, Siswa dapat mengidentifikasi ... </p><p><ol role="textbox"><li>Mendefinisikan mesin pencari dan menjelaskan fungsinya.</li><li>Menggunakan mesin pencari untuk mencari informasi yang relevan dengan topik tertentu.</li><li>Mengevaluasi kredibilitas sumber informasi yang ditemukan di internet.</li></ol></p><p></p><p></p></learning-component>
+<learning-component type="objectives" subtitle="Unit 1" accent-color="indigo" title="Learning Objectives" icon="courseicons:learning-objectives"><p>Pada akhir pelajaran, Siswa dapat mengidentifikasi ... </p><p></p><ol role="textbox"><li>Mendefinisikan mesin pencari dan menjelaskan fungsinya.</li><li>Menggunakan mesin pencari untuk mencari informasi yang relevan dengan topik tertentu.</li><li>Mengevaluasi kredibilitas sumber informasi yang ditemukan di internet.</li></ol><p></p><p></p><p></p></learning-component>
  ]]>
     </description>
     <category></category>
