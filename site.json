@@ -85,13 +85,17 @@
       "slug": "silabus-literasi-i-copy",
       "order": 1,
       "parent": null,
-      "title": "Silabus Literasi I Copy",
-      "description": "",
+      "title": "Literasi II",
+      "description": "Silabus standar adalah kontrak antara kita.\n\nSilabus materi\nPada akhir pelajaran, Siswa dapat mengidentifikasi ... Mendefinisikan mesin pencari dan menjelaskan fungsinya.Menggunakan mesin pencari unt",
       "metadata": {
         "created": 1721171910,
-        "updated": 1721171910,
-        "images": [],
-        "videos": []
+        "updated": 1721171975,
+        "images": {},
+        "videos": {},
+        "published": true,
+        "hideInMenu": false,
+        "locked": false,
+        "readtime": 1
       }
     }
   ]
